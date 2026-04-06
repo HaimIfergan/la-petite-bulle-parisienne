@@ -43,7 +43,7 @@ const Pepites = () => (
             <img
               src={item.image}
               alt={item.title}
-              className="w-full aspect-square object-cover"
+              className="w-full aspect-[3/4] object-cover"
               loading="lazy"
               width={640}
               height={640}
