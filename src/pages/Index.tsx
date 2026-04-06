@@ -1,5 +1,5 @@
 import Layout from "@/components/Layout";
-import heroImage from "@/assets/hero-chicks.jpg";
+import heroImage from "@/assets/hero-chicks.png";
 import { Link } from "react-router-dom";
 
 const Index = () => (
