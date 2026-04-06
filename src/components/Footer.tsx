@@ -1,4 +1,4 @@
-import { MapPin, Phone, TrainFront, Linkedin } from "lucide-react";
+import { MapPin, Phone, TrainFront } from "lucide-react";
 
 const Footer = () => (
   <footer className="border-t-[3px] border-foreground bg-secondary text-secondary-foreground py-8">
