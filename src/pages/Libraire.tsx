@@ -1,5 +1,5 @@
 import Layout from "@/components/Layout";
-import marcImage from "@/assets/marc-lepage.jpg";
+import marcImage from "@/assets/marc-lepage.png";
 import { BookOpen, Search, Star } from "lucide-react";
 
 const Libraire = () => (
