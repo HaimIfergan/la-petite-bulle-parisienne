@@ -10,14 +10,12 @@ const Libraire = () => (
       </h1>
 
       <div className="flex flex-col md:flex-row gap-10 items-center max-w-4xl mx-auto">
-        <div className="comic-panel w-64 h-80 flex-shrink-0">
+        <div className="comic-panel w-full md:w-96 flex-shrink-0">
           <img
             src={marcImage}
             alt="Marc Lepage, libraire passionné"
-            className="w-full h-full object-cover"
+            className="w-full h-auto"
             loading="lazy"
-            width={640}
-            height={800}
           />
         </div>
 
