@@ -15,7 +15,7 @@
     --popover: 60 56% 95%;
     --popover-foreground: 213 100% 14%;
 
-    --primary: 51 100% 50%;
+    --primary: 189 93% 53%;
     --primary-foreground: 213 100% 14%;
 
     --secondary: 213 100% 14%;
@@ -24,7 +24,7 @@
     --muted: 60 30% 85%;
     --muted-foreground: 213 40% 35%;
 
-    --accent: 51 100% 50%;
+    --accent: 189 93% 53%;
     --accent-foreground: 213 100% 14%;
 
     --destructive: 0 84.2% 60.2%;
@@ -32,18 +32,18 @@
 
     --border: 213 30% 75%;
     --input: 213 30% 75%;
-    --ring: 51 100% 50%;
+    --ring: 189 93% 53%;
 
     --radius: 0.5rem;
 
     --sidebar-background: 60 56% 91%;
     --sidebar-foreground: 213 100% 14%;
-    --sidebar-primary: 51 100% 50%;
+    --sidebar-primary: 189 93% 53%;
     --sidebar-primary-foreground: 213 100% 14%;
     --sidebar-accent: 60 30% 85%;
     --sidebar-accent-foreground: 213 100% 14%;
     --sidebar-border: 213 30% 75%;
-    --sidebar-ring: 51 100% 50%;
+    --sidebar-ring: 189 93% 53%;
 
     --font-heading: 'Bangers', cursive;
     --font-body: 'Nunito', sans-serif;
